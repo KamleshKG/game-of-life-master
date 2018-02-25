@@ -7,3 +7,7 @@ git@github.com:KamleshKG/game-of-life-master.git
 Few changes
 
 New More changes ++
+
+
+${JENKINS_HOME}/workspace/${ITEM_FULLNAME}
+
